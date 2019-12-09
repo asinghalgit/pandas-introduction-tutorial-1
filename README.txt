@@ -1,8 +1,4 @@
-https://github.com/chendaniely/pydatadc_2018-tidy
-
-https://www.youtube.com/watch?v=iYie42M1ZyU&list=PLnjRnOvc2bEosICqeq90QNJ19rvxL3RVs&index=11&t=4478s
-
-what you will learn here is as follows:
+We will learn the following concepts here:
 
 we will be using gapminder data set to look for these questions
 =================================================================
@@ -49,6 +45,8 @@ we will be using billboard data set to look for these questions
 20. How to add new column say id which contains sequential number for each row starting with 0?
 21. How to save data frame to CSV file?
 22. how to merge two data frames?
-23. how to sample chunk of data from a data frame?
 
-21. 
+Following are reference points:
+
+https://github.com/chendaniely/pydatadc_2018-tidy
+https://www.youtube.com/watch?v=iYie42M1ZyU&list=PLnjRnOvc2bEosICqeq90QNJ19rvxL3RVs&index=11&t=4478s
